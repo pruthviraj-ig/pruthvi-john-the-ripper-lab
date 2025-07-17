@@ -1,7 +1,5 @@
 title: "Cybersecurity Labs by Pruthviraj"
 description: "Hands-on cybersecurity experiments and write-ups. Learning by doing!"
-baseurl: "" # Leave this blank if you're using a user/organization site (like pruthviraj-ig.github.io)
-url: "https://pruthviraj-ig.github.io"
 
 theme: jekyll-theme-hacker
 
